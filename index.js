@@ -1,2 +1,2 @@
 // Write your solution here!
-pets.push('Otis');
+pets.push('Odie');

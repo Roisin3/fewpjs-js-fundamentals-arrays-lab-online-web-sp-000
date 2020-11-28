@@ -8,4 +8,4 @@ const removeFirst = ["Milo", "Otis", "Garfield"];
 append.push("Odie");
 prepend.unshift("Odie");
 removeLast.slice(-1);
-removeFirst.slice(1);
+removeFirst.shift;
